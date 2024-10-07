@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Tutorial",
+        "slug": "tutorial"
+    },
+    {
+        "id": 2,
+        "name": "Course",
+        "slug": "course"
+    },
+    {
+        "id": 3,
+        "name": "Electronics",
+        "slug": "electronics"
+    },
+    {
+        "id": 4,
+        "name": "Clothing",
+        "slug": "clothing"
+    },
+    {
+        "id": 5,
+        "name": "Home Appliances",
+        "slug": "home-appliances"
+    },
+    {
+        "id": 6,
+        "name": "Books",
+        "slug": "books"
+    },
+    {
+        "id": 7,
+        "name": "Health & Beauty",
+        "slug": "health-beauty"
+    },
+    {
+        "id": 8,
+        "name": "Toys",
+        "slug": "toys"
+    }
+]
